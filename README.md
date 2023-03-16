@@ -38,9 +38,10 @@ Inicie o servidor
 
 ## Screenshots
 
-<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
-<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
-<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
-<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
-
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="./tela_1.png" alt="screenshot" width="320px"/>
+  <img src="./tela_1.png" alt="screenshot" width="320px" />
+  <img src="./tela_1.png" alt="screenshot" width="320px" />
+  <img src="./tela_1.png" alt="screenshot" width="320px" />
+</div>
 
