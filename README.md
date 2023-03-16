@@ -40,8 +40,8 @@ Inicie o servidor
 
 <div style="display:flex; flex-wrap:wrap;">
   <img src="./tela_1.png" alt="screenshot" width="320px"/>
-  <img src="./tela_1.png" alt="screenshot" width="320px" />
-  <img src="./tela_1.png" alt="screenshot" width="320px" />
-  <img src="./tela_1.png" alt="screenshot" width="320px" />
+  <img src="./tela_2.png" alt="screenshot" width="320px" />
+  <img src="./tela_3.png" alt="screenshot" width="320px" />
+  <img src="./tela_4.png" alt="screenshot" width="320px" />
 </div>
 
