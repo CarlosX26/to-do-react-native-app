@@ -40,3 +40,5 @@ Inicie o servidor
 
 <img src="./tela_1.png" alt="screenshot"/>
 
+![App Screenshot](https://via.placeholder.com/468x300?text=./tela_1.png)
+
