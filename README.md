@@ -38,7 +38,9 @@ Inicie o servidor
 
 ## Screenshots
 
-<img src="./tela_1.png" alt="screenshot"/>
+<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
+<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
+<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
+<img src="./tela_1.png" alt="screenshot" width="320px" height="320px"/>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=./tela_1.png)
 
