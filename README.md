@@ -7,7 +7,7 @@ Este é um aplicativo mobile desenvolvido em React Native que permite o gerencia
 Clone o projeto
 
 ```bash
-  git@github.com:CarlosX26/to-do-react-native-app.git
+  git clone git@github.com:CarlosX26/to-do-react-native-app.git
 ```
 
 Entre no diretório do projeto
